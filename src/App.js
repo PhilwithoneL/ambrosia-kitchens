@@ -1,7 +1,9 @@
+import { AccessAlarm } from '@material-ui/icons'; 
 
 function App() {
   return (
-   <div className = "main-color">Hello</div>
+   <div className = "main"><AccessAlarm /></div>
+   
   );
 }
 
