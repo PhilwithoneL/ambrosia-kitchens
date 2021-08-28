@@ -1,10 +1,14 @@
-import { AccessAlarm } from '@material-ui/icons'; 
+import React from 'react';
+import Welcome from './components/Welcome';
 
 function App() {
+
   return (
-   <div className = "main"><AccessAlarm /></div>
-   
+    <div>
+      <Welcome />
+    </div>
   );
+
 }
 
 export default App;

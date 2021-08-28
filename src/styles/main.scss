@@ -1,5 +1,21 @@
 @import '_variables.scss';
 
-.main {
+html {
     font-family: Roboto;
+    background-color: white;
+}
+
+.main {
+    font-size: 20px;
+}
+
+.nav-logo {
+    width: 85px;
+    height: 85px;
+    margin-top: 25px;
+}
+
+.nav-side-bar-trigger {
+    color: #212121;
+
 }

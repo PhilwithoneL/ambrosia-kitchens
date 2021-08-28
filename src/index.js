@@ -4,6 +4,7 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 import './scss/main.css';
 import '@fontsource/roboto';
+import 'materialize-css/dist/css/materialize.min.css';
 
 ReactDOM.render(
   <React.StrictMode>
