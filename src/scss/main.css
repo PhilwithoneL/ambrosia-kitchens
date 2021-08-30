@@ -10,6 +10,18 @@ html {
   font-size: 20px;
 }
 
+.center-div {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
 .nav-logo {
   width: 85px;
   height: 85px;
@@ -18,10 +30,6 @@ html {
 
 .nav-side-bar-trigger {
   color: #212121;
-}
-
-.slider-row {
-  margin-top: 75px;
 }
 
 .nav-logo-name {
@@ -34,14 +42,22 @@ html {
 }
 
 .welcome-message {
-  height: 500px;
+  height: 450px;
 }
 
 .quote {
   margin: 20px 0;
   padding-left: 1.5rem;
-  border-left: 5px solid #ff9100;
+  border-left: 5px solid #00838f;
   font-weight: 600;
+}
+
+.welcome-divider {
+  height: 60px;
+}
+
+.footer {
+  height: 150px;
 }
 
 @media only screen and (min-width: 991px) {

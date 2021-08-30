@@ -1,14 +1,13 @@
 import React, { useEffect } from 'react';
 import Logo from '../assets/ambrosia-logo.svg';
-import M from 'materialize-css/dist/js/materialize.min.js'
-
-{/* <img class = "splash-logo" src={Logo} alt="Ambrosia Logo"/> */}
+import M from 'materialize-css/dist/js/materialize.min.js';
 
 
 export const NavBar = () => {
     
     useEffect(() => {
         M.AutoInit();
+        
  
     },[]) 
     
