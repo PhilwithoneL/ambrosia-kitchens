@@ -1,7 +1,7 @@
 import React, { useEffect } from 'react';
 import Logo from '../assets/ambrosia-logo.svg';
 import M from 'materialize-css/dist/js/materialize.min.js';
-import { Link } from 'react-router-dom'
+
 
 export const NavBar = () => {
     

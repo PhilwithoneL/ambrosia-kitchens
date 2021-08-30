@@ -114,6 +114,10 @@ li {
   color: #e0e0e0;
 }
 
+.footer-info-links:hover {
+  text-decoration: underline;
+}
+
 @media only screen and (min-width: 991px) {
   .nav-logo-name {
     margin-left: 20px;

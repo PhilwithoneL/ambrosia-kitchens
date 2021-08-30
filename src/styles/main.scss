@@ -129,4 +129,12 @@ li {
     }
 }
 
+.footer-info-links {
+    
+    &:hover {
+        text-decoration: underline;
+    }
+
+}
+
 @import '_mediaQueries.scss';
