@@ -59,7 +59,7 @@ export const Welcome = () => {
                     </div>
                     <div className = "col s10 center-div">
                       <div className = "center-div">
-                        <a class="waves-effect waves-light btn cyan darken-3 btn-large modal-trigger " href="#modal1"> Get a consultation!</a>
+                        <a class="waves-effect waves-light btn cyan darken-3 btn-large modal-trigger " href="#modal1">Get a consultation!</a>
                       </div>
                     </div>
                     <div className = "col s1">

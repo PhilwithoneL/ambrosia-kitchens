@@ -32,6 +32,10 @@ html {
           justify-content: center;
 }
 
+.text-align-center {
+  text-align: center;
+}
+
 .nav-logo {
   width: 85px;
   height: 85px;
@@ -86,6 +90,14 @@ html {
 
 .testimonal-name {
   font-weight: 700;
+}
+
+.steps-icon {
+  font-size: 50px;
+}
+
+.step-divider {
+  height: 20px;
 }
 
 li {
