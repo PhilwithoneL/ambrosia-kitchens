@@ -1,6 +1,4 @@
 import React, { useEffect } from 'react';
-import NavBar from './NavBar';
-import Footer from './Footer';
 import kitchenWelcomeImg1 from '../assets/Welcome-Kitchen.jpg';
 import kitchenWelcomeImg2 from '../assets/Welcome-Kitchen2.jpg';
 import "aos/dist/aos.css"
@@ -23,11 +21,6 @@ export const Welcome = () => {
 
       M.AutoInit();
 
-      document.addEventListener('DOMContentLoaded', function() {
-        var elems = document.querySelectorAll('.slider');
-        var instances = M.Slider.init(elems, { duration: 1000 });
-      });
-
     },[]);
 
     //Code for Slick Slider
@@ -46,12 +39,8 @@ export const Welcome = () => {
     return (
         <div>
             
-            <NavBar />
-
-
             <div class="parallax-container">
-                <div class="parallax"><img src={ kitchenWelcomeImg1 }/></div>
-            </div>
+            <div class="parallax"><img src={ kitchenWelcomeImg1 }/></div></div>
 
 
             <div  class="section white welcome-message">
@@ -132,7 +121,7 @@ export const Welcome = () => {
             
             <div className = "section"></div>
             
-            <Footer />
+            
   
             <div id="modal1" class="modal">
                 <div class="modal-content">
