@@ -60,6 +60,22 @@ html {
     font-weight: 600;
 }
 
+.quote-form-submit {
+
+    &:hover {
+        cursor: pointer;
+    }
+
+}
+.message-form {
+
+    textarea {
+        height:200px;
+        padding: 10px;
+    }
+    
+}
+
 .welcome-divider {
     height: 60px;
 }

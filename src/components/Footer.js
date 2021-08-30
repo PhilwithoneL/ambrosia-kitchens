@@ -5,15 +5,16 @@ import { RiFacebookBoxFill, RiTwitterFill, RiInstagramFill } from 'react-icons/r
 const Footer = () => {
 
     AOS.init();
+    
 
 
     return (
         <div>
             <div class="white footer" >
-                <footer class="page-footer white" data-aos="fade-right" data-aos-duration="750">
+                <footer class="page-footer blue-grey darken-3" data-aos="fade-right" data-aos-duration="750">
                     <div class="container" >
                         <div class="row">
-                        <div class="col l6 s12 black-text">
+                        <div class="col l6 s12 white-text">
                             <h5>Ambrosia Kitchens Ltd</h5>
                             <p class="text-flow footer-address">
                                 <ul>
@@ -24,12 +25,12 @@ const Footer = () => {
                             </p>
                         </div>
                         <div class="col l4 offset-l2 s12 ">
-                            <h5 class="black-text">Info</h5>
+                            <h5 class="white-text">Info</h5>
                             <ul>
-                            <li><a href="#!" class="black-text">Terms & Conditions</a></li>
-                            <li><a href="#!" class="black-text">Privacy & Cookie Policy</a></li>
-                            <li><a href="#!" class="black-text">0161 684 44 76</a></li>
-                            <li><a href="#!" class="black-text">info@ambrosia-kitchens.co.uk</a></li>
+                            <li><a href="#!" class="white-text">Terms & Conditions</a></li>
+                            <li><a href="#!" class="white-text">Privacy & Cookie Policy</a></li>
+                            <li><a href="#!" class="white-text">0161 684 44 76</a></li>
+                            <li><a href="#!" class="white-text">info@ambrosia-kitchens.co.uk</a></li>
                             </ul>
                         </div>
                         </div>
@@ -51,6 +52,7 @@ const Footer = () => {
                     </div>
                 </footer>
             </div>
+
         </div>
     )
 }
