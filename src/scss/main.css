@@ -4,6 +4,7 @@ html {
   font-family: Roboto;
   background-color: white;
   height: 1080px;
+  overflow-x: hidden;
 }
 
 .main {
@@ -76,6 +77,15 @@ html {
 
 .welcome-img-2 {
   height: 500px;
+}
+
+.testimonal-quote {
+  margin: 0px 20px;
+  text-align: center;
+}
+
+.testimonal-name {
+  font-weight: 700;
 }
 
 li {

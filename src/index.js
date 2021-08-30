@@ -5,6 +5,10 @@ import reportWebVitals from './reportWebVitals';
 import './scss/main.css';
 import '@fontsource/roboto';
 import 'materialize-css/dist/css/materialize.min.css';
+import "slick-carousel/slick/slick.css"; 
+import "slick-carousel/slick/slick-theme.css";
+
+
 
 ReactDOM.render(
   <React.StrictMode>
