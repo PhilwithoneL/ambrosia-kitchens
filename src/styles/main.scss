@@ -20,6 +20,10 @@ html {
     align-items: center;
 }
 
+.text-center {
+    display: flex;
+    justify-content: center;
+}
 
 //Navigation
 
@@ -42,7 +46,7 @@ html {
 //Welcome page
 
 .parallax-container {
-    height: 2500px;
+    margin:none;
 }
 
 .welcome-message {
@@ -60,10 +64,26 @@ html {
     height: 60px;
 }
 
+.welcome-img-2 {
+    height:500px;
+}
+
 //Footer
 
-.footer {
-    height: 150px;
+
+li {
+    list-style: none;
+}
+    
+.social-footer-icon {
+    font-size: 30px;
+    margin: 0px 10px;
+
+    &:hover {
+        cursor: pointer;
+        color: #e0e0e0;
+
+    }
 }
 
 @import '_mediaQueries.scss';

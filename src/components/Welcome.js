@@ -5,7 +5,6 @@ import kitchenWelcomeImg1 from '../assets/Welcome-Kitchen.jpg';
 import kitchenWelcomeImg2 from '../assets/Welcome-Kitchen2.jpg';
 import "aos/dist/aos.css"
 import AOS from 'aos/dist/aos.js';
-import img from '../assets/download.jpg';
 import M from 'materialize-css/dist/js/materialize.min.js'
 
 export const Welcome = () => {
@@ -25,9 +24,9 @@ export const Welcome = () => {
             </div>
 
             <div  class="section white welcome-message">
-              <div class="row container" data-aos="fade-right">
-                <h2 class="header" >Welcome!</h2>
-                <p class="grey-text text-darken-3 lighten-3"> 
+              <div class="row container" data-aos="fade-right" data-aos-duration="750">
+                <h2 class="header black-text" >Welcome!</h2>
+                <p class="black-text"> 
                   <p>We offer high quality, bespoke kitchen renovations in the Manchester area. We offer a range styles and designs to best meet your needs and budget.</p>
                     
                   <div className = "quote">Click the link below to get a quote or stop round our showroom today!</div>
@@ -50,7 +49,10 @@ export const Welcome = () => {
               
               </div>
             </div>
-
+            <div class="parallax-container">
+                <div class="parallax"><img src={ kitchenWelcomeImg2 }/></div>
+            </div>
+            
             <Footer />
         
         </div>
