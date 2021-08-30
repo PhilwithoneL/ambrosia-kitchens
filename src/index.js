@@ -2,12 +2,11 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
-import './scss/main.css';
-import '@fontsource/roboto';
 import 'materialize-css/dist/css/materialize.min.css';
 import "slick-carousel/slick/slick.css"; 
 import "slick-carousel/slick/slick-theme.css";
-
+import './scss/main.css';
+import '@fontsource/roboto';
 
 
 ReactDOM.render(

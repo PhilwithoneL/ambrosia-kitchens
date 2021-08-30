@@ -1,4 +1,5 @@
 import React, { useEffect } from 'react';
+import HomeBtn from './HomeBtn';
 import "aos/dist/aos.css"
 import AOS from 'aos/dist/aos.js';
 import M from 'materialize-css/dist/js/materialize.min.js'
@@ -130,6 +131,8 @@ const About = () => {
                 <a href="#!" class="modal-close waves-effect waves-green btn-flat "><input type="submit" value="Submit" className = "quote-form-submit" /></a>
                 </div>
             </div>
+
+          <HomeBtn />
 
 
         </div>

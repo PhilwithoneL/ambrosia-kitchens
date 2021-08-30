@@ -7,8 +7,6 @@ const Footer = () => {
 
     AOS.init();
     
-
-
     return (
         <div>
             <div class="white footer" >
@@ -28,10 +26,10 @@ const Footer = () => {
 
                             <div class="row">
                                 <ul className = "">
-                                <li><a href="#!" class="white-text col l3 m12 footer-info-links">Terms & Conditions</a></li>
-                                <li><a href="#!" class="white-text col l3 m12 footer-info-links">Privacy & Cookie Policy</a></li>
+                                <li><a href="#!" class="white-text col l3 m12 s12 footer-info-links">Terms & Conditions</a></li>
+                                <li><a href="#!" class="white-text col l3 m12 s12 footer-info-links">Privacy & Cookie Policy</a></li>
                                 
-                                <li><a href="#!" class="white-text col l4 m12 footer-info-links">info@ambrosia-kitchens.co.uk</a></li>
+                                <li><a href="#!" class="white-text col l4 m12 s12 footer-info-links">info@ambrosia-kitchens.co.uk</a></li>
                                 </ul>
                             </div>
                         </div>
