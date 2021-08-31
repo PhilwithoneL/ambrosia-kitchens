@@ -36,6 +36,15 @@ html {
   text-align: center;
 }
 
+.icon-bounce:hover {
+  -webkit-animation: 0.5s ease-out 0s 1 hoverbounce;
+          animation: 0.5s ease-out 0s 1 hoverbounce;
+}
+
+.pointer {
+  cursor: pointer;
+}
+
 .home-btn-span {
   top: 960px;
   position: fixed;
@@ -275,6 +284,10 @@ html {
 
 .step-divider {
   height: 20px;
+}
+
+.work-divider {
+  height: 100px;
 }
 
 li {

@@ -6,6 +6,8 @@ html {
     background-color: white;
     height:1080px;
     overflow-x:hidden;
+    
+
 }
 
 .main {
@@ -29,7 +31,17 @@ html {
     text-align:center;
 }
 
+.icon-bounce {
 
+    &:hover {
+        animation: 0.5s ease-out 0s 1 hoverbounce;
+    }
+    
+}
+
+.pointer {
+    cursor: pointer;
+}
 //HomeBtn 
 
 .home-btn-span {
@@ -43,6 +55,9 @@ html {
 .home-btn-container {
     transform:translateX(-50px);
 }
+
+
+
 
 .home-btn {
     height:70px;
@@ -103,8 +118,6 @@ html {
     }
 
 }
-
-
 
 @keyframes bounce {
 
@@ -204,6 +217,13 @@ html {
 
 .step-divider {
     height: 20px;
+}
+
+
+//Our work page
+
+.work-divider {
+    height: 100px;
 }
 
 

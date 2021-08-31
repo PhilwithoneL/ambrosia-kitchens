@@ -32,7 +32,7 @@ const About = () => {
 
             <div  class="section white about-message">
               <div class="row container" data-aos="fade-right" data-aos-duration="750">
-              <h2 class="header black-text" >About us</h2>
+              <h3 class="header black-text" >About us</h3>
                 <p class="black-text"> 
                   <p>Ambrosia kitchens are designed by us and handmade in our own factory by skilled craftsmen. Every one of our customers is different and so are the kitchens we design for them, from the worktops to the exquisite detailing on the drawer fronts.</p>
                   
@@ -49,7 +49,7 @@ const About = () => {
             </div>
 
             <div  class="section white about-process">
-              <div class="row container" data-aos="fade-right" data-aos-duration="750">
+              <div class="row container" data-aos="fade-left" data-aos-duration="750">
               <h4 class="header black-text text-flow" >The 3 step process</h4>
                 <div className ="section"></div>
                

@@ -32,7 +32,7 @@ export const Welcome = () => {
       slidesToScroll: 1,
       speed: 1000,
       autoplay: true,
-      autoplaySpeed: 4500,
+      autoplaySpeed: 5500,
       slidesToShow: 1, 
     };
 
@@ -45,7 +45,7 @@ export const Welcome = () => {
 
             <div  class="section white welcome-message">
               <div class="row container" data-aos="fade-right" data-aos-duration="750">
-                <h2 class="header black-text" >Welcome!</h2>
+                <h3 class="header black-text" >Stylish bespoke kitchens</h3>
                 <p class="black-text"> 
                   <p>We offer high quality, bespoke kitchen renovations in the Manchester area. We offer a range styles and designs to best meet your needs and budget.</p>
                     
@@ -59,7 +59,7 @@ export const Welcome = () => {
                     </div>
                     <div className = "col s10 center-div">
                       <div className = "center-div">
-                        <a class="waves-effect waves-light btn cyan darken-3 btn-large modal-trigger " href="#modal1">Get a consultation!</a>
+                        <a class="waves-effect waves-light btn cyan darken-3 btn-large modal-trigger" href="#modal1">Get a consultation!</a>
                       </div>
                     </div>
                     <div className = "col s1">
@@ -78,9 +78,8 @@ export const Welcome = () => {
             <div  class="section white welcome-message " data-aos="fade-left" data-aos-duration="750">
 
             <div>
-              <h2 className = "text-center">Testimonials</h2>
+              <h3 className = "text-center">Testimonials</h3>
               
-
               <Slider {...settings}>
 
                 <div >
