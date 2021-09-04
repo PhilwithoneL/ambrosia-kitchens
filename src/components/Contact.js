@@ -53,6 +53,7 @@ const Contact = () => {
                 </div>
                 <div className = "col s12 m2"></div>    
             </div>
+            
             <HomeBtn />
 
         </div>

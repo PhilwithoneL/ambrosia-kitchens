@@ -7,8 +7,12 @@
     .nav-logo {
         margin-top: 20px;
     }
+}
+
+@media only screen and (max-width: 991px) {
 
     .home-btn-span {
-        display:none;
+        display: none;
     }
+
 }

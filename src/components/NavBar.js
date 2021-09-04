@@ -29,6 +29,7 @@ export const NavBar = () => {
           </nav>
 
           <ul class="sidenav " id="mobile-demo">
+            <li><a href="/">Welcome</a></li>
             <li><a href="/about">About</a></li>
             <li><a href="/OurWork">Work</a></li>
             <li><a href="/Contact">Contact</a></li>
