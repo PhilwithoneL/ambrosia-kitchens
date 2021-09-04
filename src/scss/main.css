@@ -290,6 +290,10 @@ html {
   height: 100px;
 }
 
+.work-footer-divider {
+  height: 81PX;
+}
+
 li {
   list-style: none;
 }
