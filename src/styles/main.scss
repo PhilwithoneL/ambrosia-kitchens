@@ -46,7 +46,7 @@ html {
 //HomeBtn 
 
 .home-btn-span {
-    top: 960px;
+    top: 90vh;
     position: fixed;
     width:100%;
     z-index: 1;
@@ -56,8 +56,6 @@ html {
 .home-btn-container {
     transform:translateX(-50px);
 }
-
-
 
 
 .home-btn {
@@ -229,6 +227,12 @@ html {
 
 .work-footer-divider {
     height: 81PX;
+}
+
+//Contact
+
+.map-frame {
+    padding:0;
 }
 
 //Footer

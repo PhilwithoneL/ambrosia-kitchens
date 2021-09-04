@@ -32,6 +32,7 @@ const Footer = () => {
                                 <li><a href="#!" class="white-text col l4 m12 s12 footer-info-links">info@ambrosia-kitchens.co.uk</a></li>
                                 </ul>
                             </div>
+                            
                         </div>
                     </div>
 

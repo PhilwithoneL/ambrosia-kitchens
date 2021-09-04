@@ -46,7 +46,7 @@ html {
 }
 
 .home-btn-span {
-  top: 960px;
+  top: 90vh;
   position: fixed;
   width: 100%;
   z-index: 1;
@@ -294,6 +294,10 @@ html {
   height: 81PX;
 }
 
+.map-frame {
+  padding: 0;
+}
+
 li {
   list-style: none;
 }
@@ -319,6 +323,9 @@ li {
   }
   .nav-logo {
     margin-top: 20px;
+  }
+  .home-btn-span {
+    display: none;
   }
 }
 /*# sourceMappingURL=main.css.map */
