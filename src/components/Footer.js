@@ -17,9 +17,9 @@ const Footer = () => {
                                 <h5>Ambrosia Kitchens Ltd</h5>
                                 <p class="text-flow footer-address">
                                     <ul>
-                                        <li>47 Firth Lane</li>
+                                        <li>1a Hankinson Way</li>
                                         <li>Salford, Greater Manchester</li>
-                                        <li>Lancashire, M15 5XY</li>
+                                        <li>Lancashire, M6 5JA</li>
                                     </ul>
                                 </p>
                             </div>
