@@ -237,6 +237,15 @@ html {
   top: -17px;
 }
 
+.nav-pop-logo {
+  -webkit-transform: translateY(-20px);
+          transform: translateY(-20px);
+}
+
+.nav-pop-link:hover {
+  text-decoration: underline;
+}
+
 .parallax-container {
   margin: none;
 }

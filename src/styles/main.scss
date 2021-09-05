@@ -156,6 +156,17 @@ html {
     top:-17px;
 }
 
+.nav-pop-logo {
+    transform: translateY(-20px);
+}
+
+.nav-pop-link {
+    
+    &:hover {
+        text-decoration: underline;
+    }
+
+}
 
 //Welcome page
 
