@@ -1,5 +1,5 @@
 import { React, useEffect } from 'react'
-import HomeBtn from './HomeBtn';
+import ConsultationBtn from './ConsultationBtn';
 import contactImg from '../assets/contact-img.jpg'
 
 const Contact = () => {
@@ -54,7 +54,7 @@ const Contact = () => {
                 <div className = "col s12 m2"></div>    
             </div>
             
-            <HomeBtn />
+            <ConsultationBtn />
 
         </div>
     )

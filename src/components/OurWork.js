@@ -1,6 +1,6 @@
 import { React, useEffect } from 'react';
 import M from 'materialize-css/dist/js/materialize.min.js';
-import HomeBtn from './HomeBtn';
+import ConsultationBtn from './ConsultationBtn';
 import Example1 from '../assets/Example1.jpg';
 import Example2 from '../assets/Example2.jpg';
 import Example3 from '../assets/Example3.jpg';
@@ -95,7 +95,7 @@ const OurWork = () => {
 
             </div>
             <div className = "section work-footer-divider"></div>
-            <HomeBtn />
+            <ConsultationBtn />
 
         </div>
     )

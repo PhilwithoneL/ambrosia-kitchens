@@ -69,8 +69,8 @@ html {
 .home-btn:hover {
   -webkit-animation: 1s ease-out 0s 1 hoverbounce;
           animation: 1s ease-out 0s 1 hoverbounce;
-  -webkit-animation-iteration-count: infinite;
-          animation-iteration-count: infinite;
+  -webkit-animation-iteration-count: 1;
+          animation-iteration-count: 1;
 }
 
 .home-btn:active {
@@ -79,9 +79,9 @@ html {
 }
 
 .home-icon {
-  font-size: 40px;
-  -webkit-transform: translateY(15px);
-          transform: translateY(15px);
+  font-size: 35px;
+  -webkit-transform: translateY(18px);
+          transform: translateY(18px);
 }
 
 @-webkit-keyframes clickbounce {
