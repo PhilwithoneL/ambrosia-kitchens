@@ -38,8 +38,10 @@ export const NavBar = () => {
             <li className="text-center nav-pop-link"><a href="/OurWork">Work</a></li>
             <li className="text-center nav-pop-link"><a href="/Contact">Contact</a></li>
 
-          </ul>
-            
+          </ul> 
+
+          
+
         </div>
     )
 }
