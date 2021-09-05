@@ -10,7 +10,7 @@ const Footer = () => {
     return (
         <div>
             <div class="white footer" >
-                <footer class="page-footer blue-grey darken-3" data-aos="fade-right" data-aos-duration="750">
+                <footer class="page-footer blue-grey darken-3">
                     <div class="container" >
                         <div class="row">
                             <div class="col m12 s12 white-text">
