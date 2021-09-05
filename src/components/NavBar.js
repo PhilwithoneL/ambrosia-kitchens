@@ -19,7 +19,7 @@ export const NavBar = () => {
               <a href="/" class="brand-logo center"><img class = "nav-logo" src={Logo} alt="Ambrosia Logo"/></a>
               <a href="#" data-target="mobile-demo" class="sidenav-trigger"><i class="material-icons nav-side-bar-trigger">menu</i></a>
               <ul class="right hide-on-med-and-down">
-              <li><a href="/about" className = "grey-text text-darken-4">Welcome</a></li>
+              <li><a href="/" className = "grey-text text-darken-4">Welcome</a></li>
                 <li><a href="/about" className = "grey-text text-darken-4">About</a></li>
                 <li><a href="/OurWork" className = "grey-text text-darken-4">Our Work</a></li>
                 <li><a href="/Contact" className = "grey-text text-darken-4">Contact</a></li>
