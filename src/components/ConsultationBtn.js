@@ -22,12 +22,12 @@ const ConsultationBtn = () => {
 
         <div>
 
-            <div className = "home-btn-span">
+            <div className = "consultation-btn-span">
 
-                <div className = "home-btn-container" >
+                <div className = "consultation-btn-container" >
                     <a href="#modal1" className = "modal-trigger">
-                        <a class="home-btn btn white tooltipped" data-position="left" data-tooltip= "Get a consultation!">
-                            <FaCommentDots className = "blue-grey-text text-darken-2 home-icon" />
+                        <a class="consultation-btn btn white tooltipped" data-position="left" data-tooltip= "Get a consultation!">
+                            <FaCommentDots className = "blue-grey-text text-darken-2 comment-icon" />
                         </a>
                     </a>
                 </div>

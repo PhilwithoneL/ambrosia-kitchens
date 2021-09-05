@@ -37,6 +37,16 @@ export const NavBar = () => {
             <li className="text-center nav-pop-link"><a href="/about">About</a></li>
             <li className="text-center nav-pop-link"><a href="/OurWork">Work</a></li>
             <li className="text-center nav-pop-link"><a href="/Contact">Contact</a></li>
+            
+            <br></br>
+
+            <div className = "col s1"></div>
+            <div className = "col s10 center-div">
+              <div className = "center-div">
+              <a class="waves-effect waves-light btn cyan darken-3 btn-large modal-trigger" href="#modal1">Get a consultation!</a>
+              </div>
+            </div>
+            <div className = "col s1"></div>
 
           </ul> 
 

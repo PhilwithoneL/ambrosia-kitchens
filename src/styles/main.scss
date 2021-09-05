@@ -45,7 +45,7 @@ html {
 
 //HomeBtn 
 
-.home-btn-span {
+.consultation-btn-span {
     top: 90%;
     position: fixed;
     width:100%;
@@ -53,12 +53,12 @@ html {
     text-align: right;
 }
 
-.home-btn-container {
+.consultation-btn-container {
     transform:translateX(-50px);
 }
 
 
-.home-btn {
+.consultation-btn {
     height:70px;
     width:70px;
     border-radius: 50%;
@@ -75,7 +75,7 @@ html {
 
 }
 
-.home-icon {
+.comment-icon {
     font-size: 35px;
     transform:translateY(18px);
 }

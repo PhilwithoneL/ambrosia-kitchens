@@ -45,7 +45,7 @@ html {
   cursor: pointer;
 }
 
-.home-btn-span {
+.consultation-btn-span {
   top: 90%;
   position: fixed;
   width: 100%;
@@ -53,12 +53,12 @@ html {
   text-align: right;
 }
 
-.home-btn-container {
+.consultation-btn-container {
   -webkit-transform: translateX(-50px);
           transform: translateX(-50px);
 }
 
-.home-btn {
+.consultation-btn {
   height: 70px;
   width: 70px;
   border-radius: 50%;
@@ -66,19 +66,19 @@ html {
           animation: 1s ease-out 0s 1 bounce;
 }
 
-.home-btn:hover {
+.consultation-btn:hover {
   -webkit-animation: 1s ease-out 0s 1 hoverbounce;
           animation: 1s ease-out 0s 1 hoverbounce;
   -webkit-animation-iteration-count: 1;
           animation-iteration-count: 1;
 }
 
-.home-btn:active {
+.consultation-btn:active {
   -webkit-animation: 2s ease-out 0s 1 clickbounce;
           animation: 2s ease-out 0s 1 clickbounce;
 }
 
-.home-icon {
+.comment-icon {
   font-size: 35px;
   -webkit-transform: translateY(18px);
           transform: translateY(18px);
@@ -336,7 +336,7 @@ li {
 }
 
 @media only screen and (max-width: 991px) {
-  .home-btn-span {
+  .consultation-btn-span {
     display: none;
   }
 }
