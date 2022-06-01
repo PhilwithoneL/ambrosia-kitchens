@@ -33,7 +33,7 @@ const OurWork = () => {
                     </div>
                     <div class="card-reveal">
                     <span class="card-title grey-text text-darken-4">Bright, Open and Natural<i class="material-icons right">close</i></span>
-                    <p>This is an example of where luck meets opp</p>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam mollis, nisi id vestibulum dictum, nunc quam lacinia dolor, vel placerat ipsum leo vitae quam. Vivamus imperdiet erat nunc, eget tempus magna maximus tempor. Mauris euismod ornare quam, a mollis risus ultricies a. Nullam purus massa, eleifend ac arcu quis, interdum pharetra ante. Curabitur porta sodales augue, ut ultrices magna convallis sed. Aliquam cursus risus ullamcorper ligula tincidunt, et luctus felis tempus. Donec scelerisque leo sed aliquam malesuada. Cras quis consectetur mauris. Aenean ultricies sapien at dolor tempor vehicula. Fusce dui ipsum, tristique nec interdum non, imperdiet eget lectus. Proin vel purus ex.</p>
                     </div>
                 </div>
 
@@ -51,7 +51,7 @@ const OurWork = () => {
                     </div>
                     <div class="card-reveal">
                     <span class="card-title grey-text text-darken-4">Sleek and Sophisticated<i class="material-icons right">close</i></span>
-                    <p>Here is some more information about this product that is only revealed once clicked on.</p>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam mollis, nisi id vestibulum dictum, nunc quam lacinia dolor, vel placerat ipsum leo vitae quam. Vivamus imperdiet erat nunc, eget tempus magna maximus tempor. Mauris euismod ornare quam, a mollis risus ultricies a. Nullam purus massa, eleifend ac arcu quis, interdum pharetra ante. Curabitur porta sodales augue, ut ultrices magna convallis sed. Aliquam cursus risus ullamcorper ligula tincidunt, et luctus felis tempus. Donec scelerisque leo sed aliquam malesuada. Cras quis consectetur mauris. Aenean ultricies sapien at dolor tempor vehicula. Fusce dui ipsum, tristique nec interdum non, imperdiet eget lectus. Proin vel purus ex.</p>
                     </div>
                 </div>
 
@@ -69,7 +69,7 @@ const OurWork = () => {
                     </div>
                     <div class="card-reveal">
                     <span class="card-title grey-text text-darken-4">Stylish and Trendy<i class="material-icons right">close</i></span>
-                    <p>Here is some more information about this product that is only revealed once clicked on.</p>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam mollis, nisi id vestibulum dictum, nunc quam lacinia dolor, vel placerat ipsum leo vitae quam. Vivamus imperdiet erat nunc, eget tempus magna maximus tempor. Mauris euismod ornare quam, a mollis risus ultricies a. Nullam purus massa, eleifend ac arcu quis, interdum pharetra ante. Curabitur porta sodales augue, ut ultrices magna convallis sed. Aliquam cursus risus ullamcorper ligula tincidunt, et luctus felis tempus. Donec scelerisque leo sed aliquam malesuada. Cras quis consectetur mauris. Aenean ultricies sapien at dolor tempor vehicula. Fusce dui ipsum, tristique nec interdum non, imperdiet eget lectus. Proin vel purus ex.</p>
                     </div>
                 </div>
 
@@ -87,7 +87,7 @@ const OurWork = () => {
                     </div>
                     <div class="card-reveal">
                     <span class="card-title grey-text text-darken-4">Modern and Simple<i class="material-icons right">close</i></span>
-                    <p>Here is some more information about this product that is only revealed once clicked on.</p>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam mollis, nisi id vestibulum dictum, nunc quam lacinia dolor, vel placerat ipsum leo vitae quam. Vivamus imperdiet erat nunc, eget tempus magna maximus tempor. Mauris euismod ornare quam, a mollis risus ultricies a. Nullam purus massa, eleifend ac arcu quis, interdum pharetra ante. Curabitur porta sodales augue, ut ultrices magna convallis sed. Aliquam cursus risus ullamcorper ligula tincidunt, et luctus felis tempus. Donec scelerisque leo sed aliquam malesuada. Cras quis consectetur mauris. Aenean ultricies sapien at dolor tempor vehicula. Fusce dui ipsum, tristique nec interdum non, imperdiet eget lectus. Proin vel purus ex.</p>
                     </div>
                 </div>
 

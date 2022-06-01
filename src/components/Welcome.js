@@ -55,9 +55,11 @@ export const Welcome = () => {
 
                 <div className ="row welcome-divider"></div>
                   <div className = "row">
+                    
                     <div className = "col s1">
                       
                     </div>
+
                     <div className = "col s10 center-div">
                       <div className = "center-div">
                         <a class="waves-effect waves-light btn cyan darken-3 btn-large modal-trigger" href="#modal1">Get a consultation!</a>
@@ -66,6 +68,7 @@ export const Welcome = () => {
                     <div className = "col s1">
                       
                     </div>
+                    
                 </div>
               
               </div>

@@ -80,8 +80,8 @@ html {
 
 .comment-icon {
   font-size: 35px;
-  -webkit-transform: translateY(18px);
-          transform: translateY(18px);
+  -webkit-transform: translate(1px, 19px);
+          transform: translate(1px, 19px);
 }
 
 @-webkit-keyframes clickbounce {
