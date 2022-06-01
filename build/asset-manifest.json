@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.97abbb28.chunk.css",
+    "main.js": "/static/js/main.f10c747e.chunk.js",
+    "main.js.map": "/static/js/main.f10c747e.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.73dbbb8a.js",
+    "runtime-main.js.map": "/static/js/runtime-main.73dbbb8a.js.map",
+    "static/css/2.18731f11.chunk.css": "/static/css/2.18731f11.chunk.css",
+    "static/js/2.274f6665.chunk.js": "/static/js/2.274f6665.chunk.js",
+    "static/js/2.274f6665.chunk.js.map": "/static/js/2.274f6665.chunk.js.map",
+    "static/js/3.e7438b91.chunk.js": "/static/js/3.e7438b91.chunk.js",
+    "static/js/3.e7438b91.chunk.js.map": "/static/js/3.e7438b91.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.18731f11.chunk.css.map": "/static/css/2.18731f11.chunk.css.map",
+    "static/css/main.97abbb28.chunk.css.map": "/static/css/main.97abbb28.chunk.css.map",
+    "static/js/2.274f6665.chunk.js.LICENSE.txt": "/static/js/2.274f6665.chunk.js.LICENSE.txt",
+    "static/media/Example1.b19e930f.jpg": "/static/media/Example1.b19e930f.jpg",
+    "static/media/Example2.0ee8673e.jpg": "/static/media/Example2.0ee8673e.jpg",
+    "static/media/Example3.ce71476a.jpg": "/static/media/Example3.ce71476a.jpg",
+    "static/media/Example4.212caf55.jpg": "/static/media/Example4.212caf55.jpg",
+    "static/media/Welcome-Kitchen.fea46732.jpg": "/static/media/Welcome-Kitchen.fea46732.jpg",
+    "static/media/Welcome-Kitchen2.683d6cfc.jpg": "/static/media/Welcome-Kitchen2.683d6cfc.jpg",
+    "static/media/about-kitchen1.68bfc6be.jpg": "/static/media/about-kitchen1.68bfc6be.jpg",
+    "static/media/about-kitchen2.6f887adb.jpg": "/static/media/about-kitchen2.6f887adb.jpg",
+    "static/media/ambrosia-logo.722921f1.svg": "/static/media/ambrosia-logo.722921f1.svg",
+    "static/media/contact-img.0d0fab1d.jpg": "/static/media/contact-img.0d0fab1d.jpg",
+    "static/media/index.css": "/static/media/roboto-vietnamese-400-normal.c0bec65d.woff2",
+    "static/media/slick-theme.css": "/static/media/slick.c94f7671.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.73dbbb8a.js",
+    "static/css/2.18731f11.chunk.css",
+    "static/js/2.274f6665.chunk.js",
+    "static/css/main.97abbb28.chunk.css",
+    "static/js/main.f10c747e.chunk.js"
+  ]
+}
