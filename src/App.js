@@ -13,7 +13,7 @@ function App() {
   return (
 
     <Router>
-      <div>
+      <div style={{overflowX:"hidden"}}>
         <NavBar />
 
         <Switch>

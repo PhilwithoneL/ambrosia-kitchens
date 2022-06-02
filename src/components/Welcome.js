@@ -45,7 +45,9 @@ export const Welcome = () => {
 
 
             <div  class="section white welcome-message">
-              <div class="row container" data-aos="fade-right" data-aos-duration="750">
+
+              
+              <div class="row container" data-aos="fade-up" data-aos-duration="750">
                 <h3 class="header black-text" >Stylish bespoke kitchens</h3>
                 <p class="black-text"> 
                   <p>We offer high quality, bespoke kitchen renovations in the Manchester area. We offer a range styles and designs to best meet your needs and budget.</p>
@@ -79,7 +81,7 @@ export const Welcome = () => {
 
             </div>
 
-            <div  class="section white welcome-message " data-aos="fade-left" data-aos-duration="750">
+            <div  class="section white welcome-message " data-aos="fade-down" data-aos-duration="750">
 
             <div>
               <h3 className = "text-center">Testimonials</h3>
